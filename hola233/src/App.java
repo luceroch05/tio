@@ -20,7 +20,6 @@ public class App {
     
     public App() {
        
-
         frame= new JFrame();
         frame.setSize(400,600);
         frame.setVisible(true);
